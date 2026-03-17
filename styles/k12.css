@@ -1,0 +1,25 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: pink;
+    font-family: 'Baskerville','Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+img{
+    width: 500px;
+}
+.trilogia{
+    display: flex;
+    justify-content: center;
+}
+.k12album, .music{
+    width: 75%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(238, 213, 217);
+}

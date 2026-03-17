@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(248, 158, 171);
+    font-family: 'Baskerville','Times New Roman', Times, serif;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.capa1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 20px;
+}
+.trilogia{
+    background-color: rgb(250, 211, 217);
+    width: 90%;
+    border-radius: 10px;
+}
+.photo1, .photo2, .photo3{
+    width: 400px;
+    padding: 20px;
+}
+.nome1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.capa2, .nome2, .nome2_1, .nome2_2, .nome2_3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 20px;
+    width: 400px;
+}
+h2,p{
+    font-size: 100;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(248, 158, 171);
+    font-family: 'Baskerville','Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    background-color: rgb(250, 211, 217);
+    width: 75%;
+    padding: 10px;
+    border-radius: 20px;
+}
+h1, h2, p{
+    display: flex;
+    justify-content: center;
+}
