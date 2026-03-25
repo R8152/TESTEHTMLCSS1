@@ -18,9 +18,24 @@ h1{
     justify-content: center;
     align-items: flex-start;
 }
+a{
+    color: black;
+}
 .crybabyalbum, .music{
     width: 75%;
     padding: 20px;
     border-radius: 20px;
     background-color: rgb(248, 158, 171);
+}
+.comeco-meio-fim{
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row; 
+}
+.btn-comeco, .btn-meio, .btn-final{
+    background-color: rgb(248, 158, 171);
+    border-radius: 10px;
+    padding: 10px;
 }
