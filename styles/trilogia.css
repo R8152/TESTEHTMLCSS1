@@ -40,3 +40,6 @@ body{
 h2,p{
     font-size: 100;
 }
+a{
+    text-decoration: none;
+}

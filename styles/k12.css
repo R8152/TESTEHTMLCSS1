@@ -35,3 +35,6 @@ img{
     border-radius: 10px;
     padding: 5px;
 }
+a{
+    text-decoration: none;
+}

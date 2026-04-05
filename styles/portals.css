@@ -25,3 +25,6 @@ img{
     border-radius: 20px;
     background-color: blueviolet;
 }
+a{
+    text-decoration: none;
+}
