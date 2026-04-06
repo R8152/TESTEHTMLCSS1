@@ -15,3 +15,18 @@ h1, h2, p{
     display: flex;
     justify-content: center;
 }
+.p1{
+    margin-bottom: 100px;
+}
+.wiki_mm{
+    margin-top: 100px;
+}
+.Crybabyletter{
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+.Crybabyletter:hover{
+    transform: scale(2.5);
+    transition: 2s;
+}
