@@ -18,6 +18,10 @@ body{
     padding: 10px;
     border-radius: 20px;
 }
+.socialmedia{
+    display: flex;
+    justify-content: space-around;
+}
 h1,h2,p{
     display: flex;
     justify-content: center;
