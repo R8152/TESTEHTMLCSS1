@@ -19,12 +19,28 @@ h1, h2, p{
     margin-bottom: 100px;
 }
 .wiki_mm{
+
+    background-color: rgb(248, 158, 171);
     margin-top: 100px;
+    transition: 2s;
+    padding: 10px 20px;
+    margin-inline: auto;
+    width: 24%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.wiki_mm:hover{
+    text-decoration: none;
+    transform:scale(1.5);
+    transition: 2s;
 }
 .Crybabyletter{
     display: block;
     margin: auto;
     width: 300px;
+    transition: 2s;
 }
 .Crybabyletter:hover{
     transform: scale(2.5);
