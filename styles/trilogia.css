@@ -43,3 +43,37 @@ h2,p{
 a{
     text-decoration: none;
 }
+@media (max-width: 1440px){
+    .photo1, .photo2, .photo3{
+        width: 280px;
+    }
+    .nome1{
+        margin-right: 20px;
+    }
+}
+@media (max-width: 1024px){
+    .photo1, .photo2, .photo3{
+        width:220px;
+    }
+    .capa1{
+        padding-left: 50px;
+    }
+    .nome2{
+        width: 99.76px;
+        padding-left: 50px;
+    }
+@media (max-width: 768px){
+    .photo1, .photo2, .photo3{
+        width: 145px;
+    }
+    .nome1{
+        margin-bottom: 20px;
+    }
+    .nome2_2{
+        margin-left: 10px;
+    }
+    .nome2_3{
+        margin-left: 30px;
+    }
+}
+}

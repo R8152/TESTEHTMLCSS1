@@ -8,6 +8,7 @@ body{
 }
 img{
     width: 500px;
+    margin-left: 34%;
 }
 .trilogia{
     display: flex;
@@ -39,4 +40,24 @@ a{
     background-color: rgb(248, 158, 171);
     border-radius: 10px;
     padding: 5px;
+}
+@media (max-width: 1440px){
+    img{
+        margin-left: 27%;
+    }
+}
+@media (max-width: 1024px){
+    img{
+        margin-left: 17%;
+    }
+}
+@media (max-width: 768px){
+    img{
+        margin-left: 5%;
+    }
+}
+@media (max-width: 425px){
+    img{
+        width: 290px;
+    }
 }
