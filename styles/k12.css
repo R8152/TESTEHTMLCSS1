@@ -4,7 +4,7 @@ h1, h2{
 }
 body{
     background-color: pink;
-    font-family: 'Baskerville','Times New Roman', Times, serif;
+    font-family: 'Baskervville','Times New Roman', Times, serif;
     display: flex;
     align-items: center;
     justify-content: center;
