@@ -33,15 +33,22 @@ h1, h2, p{
     transition: 2s;
     padding: 10px 20px;
     margin-inline: auto;
-    width: 40%;
+    width: 40%;   
+}
+.wiki_mm:hover{
+    background-color: rgb(174, 96, 108);
+    text-decoration: none;
+    transform:scale(1.0);
+    transition: 2s;
 }
 a{
     text-decoration: none;
     color: black;
+    transition: 2s;
 }
-.wiki_mm:hover{
-    text-decoration: none;
-    transform:scale(1.0);
+a:hover{
+    color: white;
+    transform: scale(1.0);
     transition: 2s;
 }
 .Crybabyletter{
